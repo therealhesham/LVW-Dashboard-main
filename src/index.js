@@ -10,7 +10,6 @@ import theme from 'theme/theme';
 import { ThemeEditorProvider } from '@hypertheme-editor/chakra-ui';
 import { CSSReset } from "@chakra-ui/react";
 import App from 'app';
-<script src="https://unpkg.com/react-router-dom/umd/react-router-dom.min.js"></script>
 ReactDOM.render(
 	
     <ChakraProvider theme={theme}>
