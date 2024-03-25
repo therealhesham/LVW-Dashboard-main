@@ -1,0 +1,38 @@
+[
+  {
+    "name":"Horizon UI PRO",
+    "guests": 97,
+    "date": "18 Apr 2022",
+    "rate": 75.5  
+  },
+  {
+    "name":"Horizon UI Free",
+    "guests": 100,
+    "date": "18 Apr 2022",
+    "rate": 25.5  
+  },
+  {
+    "name":"Marketplace",
+    "guests": 100,
+    "date": "20 May 2021",
+    "rate": 90  
+  },
+  {
+    "name":"Weekly Updates",
+    "guests": 96,
+    "date": "12 Jul 2021",
+    "rate": 50.5  
+  },
+  {
+    "name":"Marketplace",
+    "guests": 100,
+    "date": "20 May 2021",
+    "rate": 90  
+  },
+  {
+    "name":"Weekly Updates",
+    "guests": 96,
+    "date": "12 Jul 2021",
+    "rate": 50.5  
+  }
+]
