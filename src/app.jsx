@@ -26,7 +26,7 @@ return(
 						<Route path={`/auth`} component={AuthLayout} />
 						<Route path={`/admin`} component={AdminLayout} />
 						<Route path={`/rtl`} component={RtlLayout} />
-						<Redirect from='/' to='/auth'  />
+						<Route path={`/`} component={auth} />
 		
 				</BrowserRouter>
 			</ThemeEditorProvider>
